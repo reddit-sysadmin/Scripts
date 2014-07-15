@@ -15,7 +15,7 @@ Other people interested in taking on a leadership and curatorial role are welcom
 Contributors
 ------------
 
-People interested in contributing should fork the repository and add their submissions to a new folder under /submissions.
+People interested in contributing should _...do stuff..._
 
 If you have suggestions about the design or management of the repository, submit an issue ticket for discussion. All ideas are welcome!
 
